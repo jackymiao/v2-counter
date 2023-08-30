@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image:url("https://firebasestorage.googleapis.com/v0/b/webdevelopment-75a42.appspot.com/o/jackym_blue_light_from_a_blue_sun_on_up_right_corner_gradient__ab5a467c-7726-43e6-a274-cb73f1106718.png?alt=media&token=0f287194-8272-4f78-8d7f-e7391de8ec1f");
+  background-size:cover;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

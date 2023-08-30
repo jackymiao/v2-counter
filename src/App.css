@@ -1,0 +1,47 @@
+.App {
+  text-align: center;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  flex-direction:column;
+  height:1000px;
+  gap:20px;
+
+}
+
+
+.displayCard{
+  background-color:rgba(255, 255, 255, 0.5);
+  height:100px;
+  width:200px;
+  display:flex;
+  
+  justify-content:center;
+  align-items:center;
+  border-radius:10%;
+}
+
+
+.button-box{
+  display:flex;
+  gap:10px;
+}
+
+.button-box button{
+  border-radius:50%;
+  display: inline-block;
+  background-color:greenyellow;
+  cursor:pointer;
+  border:none;
+  margin:20px;
+  padding:15px;
+  transition: transform 0.1s;
+}
+.button-box button:active{
+  transform:scale(0.95);
+}
+
+p{
+ font-size:4em;
+}
+
